@@ -1,5 +1,5 @@
 # Number Systems Seminar
-I will be giving a seminar on binary, octal, and hexadecimal number systems. I will show how each convert to one another (along with Decimal), as well as basic operations. Here are the notes:
+I will be giving a seminar on binary, octal, and hexadecimal number systems. I will show how each convert to one another (along with decimal), as well as basic operations. Here are the notes:
 
 ## Bases
 * **Decimal**: Base 10 (0, 1, 2, 3, 4, 5, 6, 7, 8, and 9)
