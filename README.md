@@ -1,4 +1,5 @@
 # NumberSystemsSeminar
+Here are the notes to a seminar that I will be giving on Binary, Octal, and Hexadecimal Number Systems. I will show how each convert to one another (along with Decimal), as well as basic operations.
 
 ## Conversion
 ### Binary
